@@ -2,4 +2,4 @@
 
 Here's a live demo:
 
-https://cryptimus.github.io/rpsgame/rps.html
+https://arya1064.github.io/rpsgame/rps.html
